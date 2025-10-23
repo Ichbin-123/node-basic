@@ -39,15 +39,15 @@
    ```
 10. "Compilare" il progetto
 
-```bash
-     npm run build
-```
+    ```bash
+        npm run build
+    ```
 
 11. Eseguire il progetto
 
-```bash
-     npm start
-```
+    ```bash
+        npm start
+    ```
 
 12. Aggiungere il file **.gitignore**
 
